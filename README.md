@@ -1,0 +1,1 @@
+Chat responsivo desenvolvido no projeto #boraCodar da Rocketseat
